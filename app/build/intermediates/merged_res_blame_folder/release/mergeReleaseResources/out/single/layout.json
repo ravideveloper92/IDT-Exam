@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.myapplication.app-mergeReleaseResources-69:/layout/row_states.xml",
+        "source": "com.example.myapplication.app-main-71:/layout/row_states.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-mergeReleaseResources-69:/layout/activity_main.xml",
+        "source": "com.example.myapplication.app-main-71:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-mergeReleaseResources-69:/layout/fragment_home.xml",
+        "source": "com.example.myapplication.app-main-71:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-mergeReleaseResources-69:/layout/row_details.xml",
+        "source": "com.example.myapplication.app-main-71:/layout/row_details.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-mergeReleaseResources-69:/layout/fragment_detail.xml",
+        "source": "com.example.myapplication.app-main-71:/layout/fragment_detail.xml"
+    }
+]
