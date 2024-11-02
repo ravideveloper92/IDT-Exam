@@ -31,7 +31,7 @@
 20
 21    <application
 21-->C:\Users\ravid\AndroidStudioProjects\MyApplication5\app\src\main\AndroidManifest.xml:6:5-30:19
-22        android:name="com.example.myapplication.view.BaseApplication"
+22        android:name="com.example.myapplication.base.BaseApplication"
 22-->C:\Users\ravid\AndroidStudioProjects\MyApplication5\app\src\main\AndroidManifest.xml:7:9-45
 23        android:allowBackup="true"
 23-->C:\Users\ravid\AndroidStudioProjects\MyApplication5\app\src\main\AndroidManifest.xml:8:9-35
@@ -58,8 +58,8 @@
 34-->C:\Users\ravid\AndroidStudioProjects\MyApplication5\app\src\main\AndroidManifest.xml:17:9-44
 35        <activity
 35-->C:\Users\ravid\AndroidStudioProjects\MyApplication5\app\src\main\AndroidManifest.xml:19:9-27:20
-36            android:name="com.example.myapplication.view.LandingActivity"
-36-->C:\Users\ravid\AndroidStudioProjects\MyApplication5\app\src\main\AndroidManifest.xml:20:13-49
+36            android:name="com.example.myapplication.ui.LandingActivity"
+36-->C:\Users\ravid\AndroidStudioProjects\MyApplication5\app\src\main\AndroidManifest.xml:20:13-47
 37            android:exported="true"
 37-->C:\Users\ravid\AndroidStudioProjects\MyApplication5\app\src\main\AndroidManifest.xml:21:13-36
 38            android:screenOrientation="landscape" >

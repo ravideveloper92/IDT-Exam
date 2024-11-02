@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="MyToolbarStyle" parent="Widget.AppCompat.Toolbar">
+        <item name="android:background">@color/toolbar_bg</item> <!-- Yellow color -->
+        <item name="android:titleTextColor">#FFFFFF</item> <!-- Title text color -->
+        <item name="titleTextColor">#FFFFFF</item> <!-- Title text color for AppCompat -->
+        <item name="android:subtitleTextColor">#FFFFFF</item> <!-- Subtitle text color -->
+        <item name="subtitleTextColor">#FFFFFF</item> <!-- Subtitle text color for AppCompat -->
+    </style>
+
+</resources>

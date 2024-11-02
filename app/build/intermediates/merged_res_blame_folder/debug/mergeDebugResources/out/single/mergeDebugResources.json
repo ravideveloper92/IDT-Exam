@@ -8,16 +8,12 @@
         "source": "C:\\Users\\ravid\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-76:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\ravid\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-74:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\ravid\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-76:\\drawable\\ic_launcher_background.xml"
-    },
-    {
         "merged": "C:\\Users\\ravid\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-74:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\ravid\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-76:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.myapplication.app-debug-74:/layout_fragment_detail.xml.flat",
-        "source": "com.example.myapplication.app-main-76:/layout/fragment_detail.xml"
+        "merged": "C:\\Users\\ravid\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-74:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ravid\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-76:\\drawable\\ic_launcher_background.xml"
     },
     {
         "merged": "C:\\Users\\ravid\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-74:\\layout_activity_main.xml.flat",
@@ -28,16 +24,20 @@
         "source": "C:\\Users\\ravid\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-76:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\ravid\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-74:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\ravid\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-76:\\xml\\data_extraction_rules.xml"
+        "merged": "com.example.myapplication.app-debug-74:/layout_fragment_home.xml.flat",
+        "source": "com.example.myapplication.app-main-76:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\ravid\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-74:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\ravid\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-76:\\layout\\fragment_home.xml"
     },
     {
         "merged": "C:\\Users\\ravid\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-74:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\ravid\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-76:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\ravid\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-74:\\layout_fragment_home.xml.flat",
-        "source": "C:\\Users\\ravid\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-76:\\layout\\fragment_home.xml"
+        "merged": "C:\\Users\\ravid\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-74:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ravid\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-76:\\xml\\data_extraction_rules.xml"
     },
     {
         "merged": "C:\\Users\\ravid\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-74:\\mipmap-anydpi-v26_ic_launcher.xml.flat",

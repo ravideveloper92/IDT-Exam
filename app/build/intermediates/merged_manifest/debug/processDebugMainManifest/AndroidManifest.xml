@@ -19,7 +19,7 @@
     <uses-permission android:name="com.example.myapplication.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
 
     <application
-        android:name="com.example.myapplication.view.BaseApplication"
+        android:name="com.example.myapplication.base.BaseApplication"
         android:allowBackup="true"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:dataExtractionRules="@xml/data_extraction_rules"
@@ -35,7 +35,7 @@
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true" >
         <activity
-            android:name="com.example.myapplication.view.LandingActivity"
+            android:name="com.example.myapplication.ui.LandingActivity"
             android:exported="true"
             android:screenOrientation="landscape" >
             <intent-filter>
